@@ -1,0 +1,5 @@
+body { background: lime !important; }
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
